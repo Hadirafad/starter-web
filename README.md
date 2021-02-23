@@ -11,7 +11,3 @@ Introductionn
 
 ## Purpose
 data commit
-
-## How to contribute
-
-contribute as you can.
